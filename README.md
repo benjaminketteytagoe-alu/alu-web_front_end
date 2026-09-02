@@ -1,2 +1,2 @@
-# alu-web_front_end
-Frontend practices 
+## HTML school practices
+This is just for practices and intranet assignments
